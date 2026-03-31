@@ -22,7 +22,7 @@ La aplicación despliega el siguiente menú interactivo:
 
 ## Requisitos del Sistema
 - **Compilador:** GCC (MinGW-w64) compatible con C++11 o superior.
-- **Entorno de Desarrollo:** Visual Studio Code (con la extensión C/C++) o Visual Studio 2022.
+- **Entorno de Desarrollo:** Visual Studio Code con la extensión C/C++
 
 ## Instrucciones de Compilación y Ejecución (VS Code)
 1. Clona este repositorio en tu máquina local:
